@@ -30,6 +30,6 @@
     "should": "^7.0.4"
   },
   "dependencies": {
-    "nodemon": "^1.4.1"
+    "nodemon": "^1.8.1"
   }
 }
